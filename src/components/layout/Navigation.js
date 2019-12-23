@@ -30,7 +30,7 @@ function Navigation() {
 </nav>
 
 <Switch>
-    <Route exact path="/">
+    <Route exact path="">
       <Home />
     </Route>
     <Route path="/home">
