@@ -1,23 +1,25 @@
 {
   "files": {
-    "main.css": "/decaf-github/static/css/main.d1b05096.chunk.css",
-    "main.js": "/decaf-github/static/js/main.0d043c27.chunk.js",
-    "main.js.map": "/decaf-github/static/js/main.0d043c27.chunk.js.map",
+    "main.css": "/decaf-github/static/css/main.e3697aa2.chunk.css",
+    "main.js": "/decaf-github/static/js/main.0ecb16d2.chunk.js",
+    "main.js.map": "/decaf-github/static/js/main.0ecb16d2.chunk.js.map",
     "runtime-main.js": "/decaf-github/static/js/runtime-main.424c4752.js",
     "runtime-main.js.map": "/decaf-github/static/js/runtime-main.424c4752.js.map",
-    "static/js/2.f168f3de.chunk.js": "/decaf-github/static/js/2.f168f3de.chunk.js",
-    "static/js/2.f168f3de.chunk.js.map": "/decaf-github/static/js/2.f168f3de.chunk.js.map",
+    "static/css/2.17e5ed98.chunk.css": "/decaf-github/static/css/2.17e5ed98.chunk.css",
+    "static/js/2.1881b0bc.chunk.js": "/decaf-github/static/js/2.1881b0bc.chunk.js",
+    "static/js/2.1881b0bc.chunk.js.map": "/decaf-github/static/js/2.1881b0bc.chunk.js.map",
     "index.html": "/decaf-github/index.html",
-    "precache-manifest.e76ce67f0be1eaa04c1e885da4c874ca.js": "/decaf-github/precache-manifest.e76ce67f0be1eaa04c1e885da4c874ca.js",
+    "precache-manifest.945c24a2d3563b2c5689d6ddbd571b03.js": "/decaf-github/precache-manifest.945c24a2d3563b2c5689d6ddbd571b03.js",
     "service-worker.js": "/decaf-github/service-worker.js",
-    "static/css/main.d1b05096.chunk.css.map": "/decaf-github/static/css/main.d1b05096.chunk.css.map",
-    "static/js/2.f168f3de.chunk.js.LICENSE": "/decaf-github/static/js/2.f168f3de.chunk.js.LICENSE",
-    "static/media/logo.svg": "/decaf-github/static/media/logo.5d5d9eef.svg"
+    "static/css/2.17e5ed98.chunk.css.map": "/decaf-github/static/css/2.17e5ed98.chunk.css.map",
+    "static/css/main.e3697aa2.chunk.css.map": "/decaf-github/static/css/main.e3697aa2.chunk.css.map",
+    "static/js/2.1881b0bc.chunk.js.LICENSE": "/decaf-github/static/js/2.1881b0bc.chunk.js.LICENSE"
   },
   "entrypoints": [
     "static/js/runtime-main.424c4752.js",
-    "static/js/2.f168f3de.chunk.js",
-    "static/css/main.d1b05096.chunk.css",
-    "static/js/main.0d043c27.chunk.js"
+    "static/css/2.17e5ed98.chunk.css",
+    "static/js/2.1881b0bc.chunk.js",
+    "static/css/main.e3697aa2.chunk.css",
+    "static/js/main.0ecb16d2.chunk.js"
   ]
 }
