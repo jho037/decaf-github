@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "5141a0aa1513c4045a3d164304c0f44c",
+    "revision": "5147498f56012b6b5d3a3e484c0ab3f1",
     "url": "/decaf-github/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/decaf-github/static/css/2.17e5ed98.chunk.css"
   },
   {
-    "revision": "926a5e5df9e9fc3c99dc",
+    "revision": "b80ea42d7354d4c6236c",
     "url": "/decaf-github/static/css/main.e3697aa2.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/decaf-github/static/js/2.1881b0bc.chunk.js.LICENSE"
   },
   {
-    "revision": "926a5e5df9e9fc3c99dc",
-    "url": "/decaf-github/static/js/main.0ecb16d2.chunk.js"
+    "revision": "b80ea42d7354d4c6236c",
+    "url": "/decaf-github/static/js/main.d41efa34.chunk.js"
   },
   {
     "revision": "7ea3228dc577a7975ddb",
