@@ -1,0 +1,22 @@
+.Pub {
+    height: 100vh;
+    background-color: white;
+    margin-top: 3%;
+    margin-left: 20%;
+    margin-right: 20%;
+}
+
+.Pub h {
+    display: block;
+    text-align: center;
+    font-weight: bold;
+    font-size: 180%;
+}
+
+.Pub p {
+    margin: 2%;
+    font-size: 100%;
+    text-align: justify;
+    text-decoration: none;
+    margin-bottom: 4%;
+}
