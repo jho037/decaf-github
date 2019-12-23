@@ -14,15 +14,18 @@ function Navigation() {
   </button>
 
   <div className="collapse navbar-collapse" id="navbarSupportedContent">
-    <ul className="navbar-nav ml-10">
+    <ul className="navbar-nav ml-auto">
       <li className="nav-item active">
         <Link className="nav-link text-white text-uppercase ml-5" to="/Introduction">Introduction <span className="sr-only">(current)</span></Link>
+      </li>
+      <li className="nav-item">
+        <Link className="nav-link text-white text-uppercase ml-5" to="/publications">Publications</Link>
       </li>
       <li className="nav-item active">
         <a className="nav-link text-white text-uppercase ml-5" href="https://github.com/decaf-project/DECAF/wiki">WikiPage <span className="sr-only">(current)</span></a>
       </li>
-      <li className="nav-item">
-        <Link className="nav-link text-white text-uppercase ml-5" to="/publications">Publications</Link>
+      <li className="nav-item active">
+        <a className="nav-link text-white text-uppercase ml-5" href="https://github.com/decaf-project/DECAF">Github <span className="sr-only">(current)</span></a>
       </li>
       
     </ul>
